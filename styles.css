@@ -5,7 +5,7 @@
 
 .hero,
 .info,
-.quote,
+.quote div,
 .sign-up-call {
   width: 65%;
   margin: auto;
@@ -81,6 +81,31 @@
   color: #a8aaad;
 }
 
+.quote {
+  background-color: #e5e7eb;
+  height: 300px;
+}
+
+.quote div {
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+}
+
+.quote-p,
+.author-p {
+  font-size: 36px;
+  color: #1f2937;
+}
+
+.quote-p {
+  font-style: italic;
+  margin-bottom: 0px;
+}
+
+.author-p {
+  align-self: flex-end;
+}
 
 a {
   text-decoration: none;
