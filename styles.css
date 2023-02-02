@@ -1,7 +1,4 @@
 .header {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   background-color: #1f2937;
   padding: 12px;
 }
@@ -9,7 +6,6 @@
 .hero {
   width: 65%;
   margin: auto;
-  flex-grow: 0;
 }
 
 .nav-bar,
