@@ -4,3 +4,5 @@ See Bee is a `CSS` project in [The Odin Project](https://www.theodinproject.com/
 
 
 The project is implemented by `HTML` and `CSS`. the structure of project is simple.
+
+you can visit the project from this [link](https://omar622.github.io/SeeBee/)
