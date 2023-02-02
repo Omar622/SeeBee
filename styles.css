@@ -40,7 +40,8 @@
   color: #f9faf8;
 }
 
-.sign-up-btn {
+.sign-up-btn,
+.sign-up-call-btn {
   background-color: #3882f6;
   border: none;
   width: 100px;
@@ -105,6 +106,35 @@
 
 .author-p {
   align-self: flex-end;
+}
+
+.sign-up-call {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.sign-up-call-centered {
+  height: 120px;
+  border-radius: 5px;
+  background-color: #3882f6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.sign-up-h {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 0px;
+}
+
+.sign-up-p {
+  margin-top: 0px;
+}
+
+.sign-up-call-btn {
+  border: 2px solid white;
 }
 
 a {
